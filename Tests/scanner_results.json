@@ -1,0 +1,94 @@
+[
+  {
+    "ticker": "AAPL",
+    "generated_time": "2025-09-14T19:12:35.003691",
+    "price": 234.07,
+    "market_cap": 3473692426240,
+    "sector": "Technology",
+    "country": null,
+    "signals": {
+      "bullish_trend": true,
+      "short_term_trend": "upward",
+      "volume_spike": false
+    },
+    "risk_flags": [],
+    "volatility": 4.480580084935157,
+    "latest_volume": 55776500,
+    "pe_ratio": null,
+    "score": 4
+  },
+  {
+    "ticker": "MSFT",
+    "generated_time": "2025-09-14T19:12:36.796287",
+    "price": 509.9,
+    "market_cap": 3790173372416,
+    "sector": "Technology",
+    "country": null,
+    "signals": {
+      "bullish_trend": true,
+      "short_term_trend": "downward",
+      "volume_spike": false
+    },
+    "risk_flags": [],
+    "volatility": 5.815648471844873,
+    "latest_volume": 23612600,
+    "pe_ratio": null,
+    "score": 4
+  },
+  {
+    "ticker": "AMZN",
+    "generated_time": "2025-09-14T19:12:39.863222",
+    "price": 228.15,
+    "market_cap": 2433196752896,
+    "sector": "Consumer Cyclical",
+    "country": null,
+    "signals": {
+      "bullish_trend": true,
+      "short_term_trend": "upward",
+      "volume_spike": false
+    },
+    "risk_flags": [],
+    "volatility": 3.9786302885369014,
+    "latest_volume": 38447500,
+    "pe_ratio": null,
+    "score": 4
+  },
+  {
+    "ticker": "BRK-B",
+    "generated_time": "2025-09-14T19:12:41.240773",
+    "price": 493.74,
+    "market_cap": 1065011904512,
+    "sector": "Financial Services",
+    "country": null,
+    "signals": {
+      "bullish_trend": true,
+      "short_term_trend": "upward",
+      "volume_spike": false
+    },
+    "risk_flags": [],
+    "volatility": 7.868761083685288,
+    "latest_volume": 2949600,
+    "pe_ratio": null,
+    "score": 4
+  },
+  {
+    "ticker": "GOOGL",
+    "generated_time": "2025-09-14T19:12:38.194655",
+    "price": 240.8,
+    "market_cap": 2915389669376,
+    "sector": "Communication Services",
+    "country": null,
+    "signals": {
+      "bullish_trend": true,
+      "short_term_trend": "upward",
+      "volume_spike": false
+    },
+    "risk_flags": [
+      "High recent volatility"
+    ],
+    "volatility": 15.917560315354875,
+    "latest_volume": 26761900,
+    "pe_ratio": null,
+    "score": 3
+  }
+]

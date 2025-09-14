@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001652044-25-000063.txt : 20250801
+<SEC-HEADER>0001652044-25-000063.hdr.sgml : 20250801
+<ACCEPTANCE-DATETIME>20250731174550
+ACCESSION NUMBER:		0001652044-25-000063
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20250630
+FILED AS OF DATE:		20250801
+DATE AS OF CHANGE:		20250731
+EFFECTIVENESS DATE:		20250801
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Alphabet Inc.
+		CENTRAL INDEX KEY:			0001652044
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		EIN:				611767919
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-22702
+		FILM NUMBER:		251172991
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1600 AMPHITHEATRE PARKWAY
+		CITY:			MOUNTAIN VIEW
+		STATE:			CA
+		ZIP:			94043
+		BUSINESS PHONE:		650-253-0000
+
+	MAIL ADDRESS:	
+		STREET 1:		1600 AMPHITHEATRE PARKWAY
+		CITY:			MOUNTAIN VIEW
+		STATE:			CA
+		ZIP:			94043
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com="http://www.sec.gov/edgar/common" xmlns="http://www.sec.gov/edgar/thirteenffiler">
+  <schemaVersion>X0202</schemaVersion>
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001652044</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>06-30-2025</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>06-30-2025</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>Alphabet Inc.</name>
+        <address>
+          <com:street1>1600 Amphitheatre Parkway</com:street1>
+          <com:city>Mountain View</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94043</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-22702</form13FFileNumber>
+      <secFileNumber>028-22702</secFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Marsida Saraci</name>
+      <title>Vice President, Deputy Controller</title>
+      <phone>650-253-0000</phone>
+      <signature>/s/ Marsida Saraci</signature>
+      <city>Mountain View</city>
+      <stateOrCountry>CA</stateOrCountry>
+      <signatureDate>07-31-2025</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>5</otherIncludedManagersCount>
+      <tableEntryTotal>39</tableEntryTotal>
+      <tableValueTotal>2135229735</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <cik>0001940173</cik>
+            <form13FFileNumber>028-22704</form13FFileNumber>
+            <name>GV Management Company, L.L.C.</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <cik>0001824723</cik>
+            <form13FFileNumber>028-22705</form13FFileNumber>
+            <name>Google LLC</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>3</sequenceNumber>
+          <otherManager>
+            <cik>0001779076</cik>
+            <form13FFileNumber>028-22706</form13FFileNumber>
+            <name>CapitalG II LP</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>4</sequenceNumber>
+          <otherManager>
+            <cik>0001848282</cik>
+            <form13FFileNumber>028-22703</form13FFileNumber>
+            <name>Verily Life Sciences LLC</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>5</sequenceNumber>
+          <otherManager>
+            <cik>0001998562</cik>
+            <form13FFileNumber>028-23659</form13FFileNumber>
+            <name>CapitalG III LP</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>information_table.xml
+<DESCRIPTION>INFORMATION TABLE
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><infoTable><nameOfIssuer>ALECTOR INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>014442107</cusip><value>246212</value><shrsOrPrnAmt><sshPrnamt>175866</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>175866</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ARM HOLDINGS PLC</nameOfIssuer><titleOfClass>SPONSORED ADS</titleOfClass><cusip>042068205</cusip><value>317137204</value><shrsOrPrnAmt><sshPrnamt>1960784</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>2</otherManager><votingAuthority><Sole>0</Sole><Shared>1960784</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>AST SPACEMOBILE INC</nameOfIssuer><titleOfClass>COM CL A</titleOfClass><cusip>00217D100</cusip><value>417929101</value><shrsOrPrnAmt><sshPrnamt>8943486</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>2</otherManager><votingAuthority><Sole>0</Sole><Shared>8943486</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>AUTOLUS THERAPEUTICS PLC</nameOfIssuer><titleOfClass>SPON ADS</titleOfClass><cusip>05280R100</cusip><value>1592037</value><shrsOrPrnAmt><sshPrnamt>698262</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>698262</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>BARINTHUS BIOTHERAPEUTICS PL</nameOfIssuer><titleOfClass>ADS</titleOfClass><cusip>91864C107</cusip><value>1407689</value><shrsOrPrnAmt><sshPrnamt>1513644</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>1513644</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>BEAM THERAPEUTICS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>07373V105</cusip><value>5470484</value><shrsOrPrnAmt><sshPrnamt>321604</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>321604</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>DEXCOM INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>252131107</cusip><value>90514231</value><shrsOrPrnAmt><sshPrnamt>1036937</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>4</otherManager><votingAuthority><Sole>0</Sole><Shared>1036937</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>DIANTHUS THERAPEUTICS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>252828108</cusip><value>3888025</value><shrsOrPrnAmt><sshPrnamt>208697</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>208697</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>EXACT SCIENCES CORP</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>30063P105</cusip><value>1233114</value><shrsOrPrnAmt><sshPrnamt>23205</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>4</otherManager><votingAuthority><Sole>0</Sole><Shared>23205</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>FOGHORN THERAPEUTICS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>344174107</cusip><value>2354235</value><shrsOrPrnAmt><sshPrnamt>500901</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>500901</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>FRACTYL HEALTH INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>35168W103</cusip><value>1073386</value><shrsOrPrnAmt><sshPrnamt>662584</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>662584</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>FRESHWORKS INC</nameOfIssuer><titleOfClass>CLASS A COM</titleOfClass><cusip>358054104</cusip><value>28021407</value><shrsOrPrnAmt><sshPrnamt>1879370</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>3</otherManager><votingAuthority><Sole>0</Sole><Shared>1879370</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>FRESHWORKS INC</nameOfIssuer><titleOfClass>CLASS A COM</titleOfClass><cusip>358054104</cusip><value>213619640</value><shrsOrPrnAmt><sshPrnamt>14327273</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><votingAuthority><Sole>0</Sole><Shared>14327273</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>FULCRUM THERAPEUTICS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>359616109</cusip><value>98123</value><shrsOrPrnAmt><sshPrnamt>14262</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>4</otherManager><votingAuthority><Sole>0</Sole><Shared>14262</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>GENEDX HOLDINGS CORP</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>81663L200</cusip><value>2096452</value><shrsOrPrnAmt><sshPrnamt>22711</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>4</otherManager><votingAuthority><Sole>0</Sole><Shared>22711</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>GITLAB INC</nameOfIssuer><titleOfClass>CLASS A COM</titleOfClass><cusip>37637K108</cusip><value>122911758</value><shrsOrPrnAmt><sshPrnamt>2724712</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>2724712</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>HYPERFINE INC</nameOfIssuer><titleOfClass>COM CL A</titleOfClass><cusip>44916K106</cusip><value>647078</value><shrsOrPrnAmt><sshPrnamt>898720</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>898720</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>LYELL IMMUNOPHARMA INC</nameOfIssuer><titleOfClass>COM NEW</titleOfClass><cusip>55083R203</cusip><value>2592383</value><shrsOrPrnAmt><sshPrnamt>293256</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>293256</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>MAZE THERAPEUTICS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>578784100</cusip><value>29601019</value><shrsOrPrnAmt><sshPrnamt>2412471</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>2412471</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>METSERA INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>59267L107</cusip><value>141161617</value><shrsOrPrnAmt><sshPrnamt>4961744</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>4961744</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>MONTE ROSA THERAPEUTICS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>61225M102</cusip><value>6602708</value><shrsOrPrnAmt><sshPrnamt>1464015</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>1464015</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>OSCAR HEALTH INC</nameOfIssuer><titleOfClass>CL A</titleOfClass><cusip>687793109</cusip><value>10333823</value><shrsOrPrnAmt><sshPrnamt>481988</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>481988</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>PLANET LABS PBC</nameOfIssuer><titleOfClass>COM CL A</titleOfClass><cusip>72703X106</cusip><value>194850110</value><shrsOrPrnAmt><sshPrnamt>31942641</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>2</otherManager><votingAuthority><Sole>0</Sole><Shared>31942641</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>PRIME MEDICINE INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>74168J101</cusip><value>37204370</value><shrsOrPrnAmt><sshPrnamt>15062498</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>15062498</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>QUINCE THERAPEUTICS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>22053A107</cusip><value>312051</value><shrsOrPrnAmt><sshPrnamt>189122</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>4</otherManager><votingAuthority><Sole>0</Sole><Shared>189122</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>RELAY THERAPEUTICS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>75943R102</cusip><value>15847</value><shrsOrPrnAmt><sshPrnamt>4580</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>4</otherManager><votingAuthority><Sole>0</Sole><Shared>4580</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>RELAY THERAPEUTICS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>75943R102</cusip><value>5412039</value><shrsOrPrnAmt><sshPrnamt>1564173</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>1564173</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>REPLIGEN CORP</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>759916109</cusip><value>47638</value><shrsOrPrnAmt><sshPrnamt>383</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>4</otherManager><votingAuthority><Sole>0</Sole><Shared>383</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>REVOLUTION MEDICINES INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>76155X100</cusip><value>1934308</value><shrsOrPrnAmt><sshPrnamt>52577</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>4</otherManager><votingAuthority><Sole>0</Sole><Shared>52577</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>REVOLUTION MEDICINES INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>76155X100</cusip><value>150128953</value><shrsOrPrnAmt><sshPrnamt>4080700</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>4080700</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>SANA BIOTECHNOLOGY INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>799566104</cusip><value>7678125</value><shrsOrPrnAmt><sshPrnamt>2812500</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>2812500</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>SPERO THERAPEUTICS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>84833T103</cusip><value>2580939</value><shrsOrPrnAmt><sshPrnamt>889979</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>889979</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>TAYSHA GENE THERAPIES INC</nameOfIssuer><titleOfClass>COM SHS</titleOfClass><cusip>877619106</cusip><value>1480437</value><shrsOrPrnAmt><sshPrnamt>640882</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>640882</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>TEMPUS AI INC</nameOfIssuer><titleOfClass>CL A</titleOfClass><cusip>88023B103</cusip><value>98557021</value><shrsOrPrnAmt><sshPrnamt>1551102</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>2</otherManager><votingAuthority><Sole>0</Sole><Shared>1551102</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>TENAYA THERAPEUTICS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>87990A106</cusip><value>558580</value><shrsOrPrnAmt><sshPrnamt>915705</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>915705</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>TSCAN THERAPEUTICS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>89854M101</cusip><value>1561766</value><shrsOrPrnAmt><sshPrnamt>1077080</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>1077080</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>UIPATH INC</nameOfIssuer><titleOfClass>CL A</titleOfClass><cusip>90364P105</cusip><value>90039514</value><shrsOrPrnAmt><sshPrnamt>7034337</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>3</otherManager><votingAuthority><Sole>0</Sole><Shared>7034337</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VERA THERAPEUTICS INC</nameOfIssuer><titleOfClass>CL A</titleOfClass><cusip>92337R101</cusip><value>5684180</value><shrsOrPrnAmt><sshPrnamt>241264</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>241264</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>VERVE THERAPEUTICS INC</nameOfIssuer><titleOfClass>COM</titleOfClass><cusip>92539P101</cusip><value>136652131</value><shrsOrPrnAmt><sshPrnamt>12168489</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><otherManager>1</otherManager><votingAuthority><Sole>0</Sole><Shared>12168489</Shared><None>0</None></votingAuthority></infoTable></informationTable><!-- Other Managers: 1|GV Management Company, L.L.C.|028-22704|0001940173||^2|Google LLC|028-22705|0001824723||^3|CapitalG II LP|028-22706|0001779076||^4|Verily Life Sciences LLC|028-22703|0001848282||^5|CapitalG III LP|028-23659|0001998562|| --><!-- tableEntryCount=39 tableValueTotal=2135229735 -->
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
