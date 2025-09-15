@@ -43,3 +43,67 @@ OPENAI_API_KEY=your_openai_api_key
 
 To run the app, in the terminal:
 streamlit run web_app.py
+
+## Workflow of the Agents
+
+
+
+                          ┌─────────────────────────┐
+                          │   Market Scanner Agent  │
+                          │ - Loads S&P 500 stocks  │
+                          │ - Picks candidates      │
+                          └─────────────┬───────────┘
+                                        │
+                                        ▼
+                          ┌─────────────────────────┐
+                          │       Data Agent        │
+                          │ - Fetches fundamentals  │
+                          │ - Price history         │
+                          │ - 13F filings           │
+                          └───────┬─────────┬───────┘
+                                  │   |     │
+                                  |   |     |
+                  ┌────────────────┐  |  ┌─────────────────┐
+                  │  yFinance API  │  |  │    Edgar Tool   │
+                  │ - Market data  │  |  │ - SEC 13F data  │
+                  └────────────────┘  |  └─────────────────┘
+                                      │
+                                      ▼
+                          ┌─────────────────────────┐
+                          │      Signal Agent       │
+                          │ - Trends & patterns     │
+                          │ - Bullish/bearish flags │
+                          └─────────────┬───────────┘
+                                        │
+                                        ▼
+                          ┌─────────────────────────┐
+                          │      Timing Agent       │
+                          │ - Entry/exit windows    │
+                          │ - Confidence levels     │
+                          └─────────────┬───────────┘
+                                        │
+                                        ▼
+                          ┌─────────────────────────┐
+                          │ Recommendation Agent    │
+                          │ - LLM reasoning         │
+                          │ - Sector diversification│
+                          │ - Capital allocation    │
+                          └─────────────┬───────────┘
+                                        │
+                                        ▼
+                             ┌─────────────────┐
+                             │   OpenAI LLM    │
+                             │ - JSON output   │
+                             │ - Rationale     │
+                             └─────────────────┘
+                                        │
+                                        ▼
+                          ┌─────────────────────────┐
+                          │         Web UI          │
+                          │ - Streamlit dashboard   │
+                          │ - Agent interactions    │
+                          │ - Charts & allocations  │
+                          │ - Parsed 13F filings    │
+                          └─────────────────────────┘
+
+
